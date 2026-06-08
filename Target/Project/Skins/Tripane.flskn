@@ -32,7 +32,7 @@
         Name="Logo">
         <Properties>
           <Property
-            Name="BackgroundImage">url('Green%20Screen.png')</Property>
+            Name="BackgroundImage">url('icon-filter-17x17.png')</Property>
         </Properties>
       </Style>
       <Style
@@ -1195,8 +1195,6 @@
         Name="serachList_17x17.png">H4sIAAAAAAAEAAHqABX/iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAAsUlEQVQ4jd3SMQ5BQRgE4O+JOIBKodZwDYXEEWhc4FVEreQKVK4gUbiFiErvDhoiWSLrLU9rkk3m352d7D//+i9kr910e/0HrWGBQdCsMcblIdhtN897lUQkc7TQQTvwWSq+amJ/GAzOoR7hgGmROPWSGNdPhymTewZLNNDEKtQ/mUxwwhH7wCe/mtynkKMeVh6mVNhWHGyRKIv4Nf4asUnmO96Myk7n0+tKtVPK6F+AG7GzGeIrB8juAAAAAElFTkSuQmCC7DCkruoAAAA=</Resource>
       <Resource
         Name="Icon-User-White.png">H4sIAAAAAAAEAAE+AcH+iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAYAAAAmlE46AAABBUlEQVQokZWSvWoCQRSFT5J9ALFLGgMp0tsESVLZ5T18lbxKqpDCfhEVUgUEaxsRUgUsUvhTfOEuZ8moo+CBC7PfPWdn5+4I2K9HoAQ2rtJsx7cfegG2HGrrXjZ4BSwciV06rtJsYc9B8MGGNdBIeMMMeyp+qX81vfqRtEz40kyJZ2fHVnKybsK7CW8dG86HDSvgzbUyez811SYwyUx14l42eAP0M6FafXsq/0WVlu4kjSRd++hjSZ9edyQ9ef0t6VnSLNIFMPVb57lbYja3J7xFwJ7BL3CfCdUVvfCEegEGfng9EaorPKFBIant7/+SdJv8+JzCE2rHcKrpnKu4csOzU9LwD9/wHJKbO9XdAAAAAElFTkSuQmCCfFjI8T4BAAA=</Resource>
-      <Resource
-        Name="Green Screen.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAliYGDMBWJHDjagyJ78f/lAirE4yN2JYd05mZdADku6o68jA8PGfu4/iaxAPmeBR2QxAwPfYRBmPJ6/IgWo5rini2NIRdzb24ZZzIYiDo4nLSYIs9z/X5J3aUmnp8+UU63fWep2Gy9Iss/aVunReoxBITmPvfr795+F0vbx+f3vK3/WzS/+Z/eeqcJ3+duE79dqz5Va216Ler3nLtOHVc8iknPbd5fJPn7Zr+++J58h9Lh1JnNLp5lDRwZzSwc2Sua9q4rDjMl4VIxSo9QoNUqhUifsQ3ZKpYpVGbQAyzkGT1c/l3VOCU0AL5cusDIFAAA=</Resource>
     </Resources>
     <Stylesheet></Stylesheet>
   </Stylesheet>
